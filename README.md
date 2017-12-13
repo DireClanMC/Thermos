@@ -100,7 +100,7 @@ All builds will be in `build/distributions`
 
 ✔ Mobius / Opis: You can download fixed version [HERE](https://cdn.discordapp.com/attachments/172072987154055168/186577486593785857/MobiusCore-1.2.5-Thermos.jar)
 
-✔ SkinsRestorer: Latest working version is 10.4.4
+✔ SkinsRestorer (for those using offline Thermos server): Latest working version is 10.4.4 [HERE](https://www.spigotmc.org/resources/skinsrestorer.2124/download?version=58535)
 
 [Fixed]: http://gogs.tcpr.ca/TCPR/Fixes "Fixed"
 [forge]: https://img.shields.io/badge/Minecraft%20Forge-v10.13.4.1614-green.svg "Minecraft Forge v10.13.4.1614"
