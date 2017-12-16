@@ -1,7 +1,5 @@
 # ThermosX
 
-[Русский](https://cyberdynecc.github.io/Thermos/#googtrans(en|ru)) [Deutsch](https://cyberdynecc.github.io/Thermos/#googtrans(en|de)) [Français](https://cyberdynecc.github.io/Thermos/#googtrans(en|fr)) [Español](https://cyberdynecc.github.io/Thermos/#googtrans(en|es)) [Português](https://cyberdynecc.github.io/Thermos/#googtrans(en|pt)) [Nederlands](https://cyberdynecc.github.io/Thermos/#googtrans(en|nl)) [汉语](https://cyberdynecc.github.io/Thermos/#googtrans(en|jp)) [日本語](https://cyberdynecc.github.io/Thermos/#googtrans(en|zh)) [조선말](https://cyberdynecc.github.io/Thermos/#googtrans(en|ko)) [हिन्दी](https://cyberdynecc.github.io/Thermos/#googtrans(en|hi))
-
 ![Thermos](thermos_icon.png)
 ![Graph](http://i.mcstats.org/Thermos/Global+Statistics@2x.borderless.png)
 
@@ -11,16 +9,17 @@
 ![Java JDK v1.8][java]
 ![Spigot 1.7.10 Snapshot ][spigot]
 
-### What's Thermos?
-Thermos is a fork of KCauldron, a craftbukkit forge server for Minecraft 1.7.10. After periods of inactivity on KCauldron's GitLab concerning major issues, Thermos was created to allow active members of the Minecraft coding community to optimize it and provide fixes in a timely manner.
+### What's ThermosX?
+ThermosX is a fork of KCauldron and Thermos, a CraftBukkit-Forge server for Minecraft 1.7.10. After periods of inactivity on KCauldron's (and Thermos) GitLab concerning major issues, ThermosX was created to allow active members of the Minecraft coding community to optimize it and provide fixes in a timely manner.
 
-We hope to eliminate all issues with craftbukkit forge servers. In the end, we envision a seamless, low lag Thermos experience.
+We hope to eliminate all issues with CraftBukkit-Forge servers. In the end, we envision a seamless, low lag ThermosX experience.
 
 Advantages over KCauldron:
 + Lag-lowering optimizations
 + Better world protection (Forge stuff doesn't bypass Bukkit plugins!)
 + Many patches that KCauldron didn't get from Spigot
 + Dupe glitch fixes
++ Includes Spigot API to load plugins made for Spigot
 
 
 ## Installation
@@ -29,7 +28,7 @@ Click [here](http://direclanmc.github.io/ThermosX/install)
 ## Downloads
 ~~You can download the pre-built packages from [here](https://github.com/DireClanMC/ThermosX/releases).
 
-**Thermos is still in beta and you may encounter issues in using it with your server. You have been warned!**
+**ThermosX is still in beta and you may encounter issues in using it with your server. You have been warned!**
 
 P.S. **PLEASE** look at the release notes before downloading! :smile:
 
@@ -84,11 +83,11 @@ All builds will be in `build/distributions`
 
 ✔ Factions + MassiveCore: No protection from Forge items. [Fixed]
 
-✔ TuxTwoLib: Didn't work with Thermos at all [Fixed]
+✔ TuxTwoLib: Didn't work with ThermosX at all [Fixed]
 
 ✔ Mobius / Opis: You can download fixed version [HERE](https://cdn.discordapp.com/attachments/172072987154055168/186577486593785857/MobiusCore-1.2.5-Thermos.jar)
 
-✔ SkinsRestorer (for those using offline Thermos server): Latest working version is 10.4.4 [HERE](https://www.spigotmc.org/resources/skinsrestorer.2124/download?version=58535)
+✔ SkinsRestorer (for those using offline ThermosX server): Latest working version is 10.4.4 [HERE](https://www.spigotmc.org/resources/skinsrestorer.2124/download?version=58535)
 
 [Fixed]: http://gogs.tcpr.ca/TCPR/Fixes "Fixed"
 [forge]: https://img.shields.io/badge/Minecraft%20Forge-v10.13.4.1614-green.svg "Minecraft Forge v10.13.4.1614"
