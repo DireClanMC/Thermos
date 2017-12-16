@@ -56,8 +56,10 @@ a {
 .page-header {
   color: #fff;
   text-align: center;
-  background-color: #991515;
-  background-image: linear-gradient(120deg, #991515, #991515); }
+  background: #642B73;  /* fallback for old browsers */
+  background: -webkit-linear-gradient(to right, #C6426E, #642B73);  /* Chrome 10-25, Safari 5.1-6 */
+  background: linear-gradient(to right, #C6426E, #642B73); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+
 
 @media screen and (min-width: 64em) {
   .page-header {
