@@ -1,13 +1,12 @@
 # ThermosX
 
 ![Thermos](thermos_icon.png)
-![Graph](http://i.mcstats.org/Thermos/Global+Statistics@2x.borderless.png)
 
-[![Build Status](https://travis-ci.org/CyberdyneCC/Thermos.svg?branch=master)](https://travis-ci.org/CyberdyneCC/Thermos)
+[![Build Status](https://api.travis-ci.org/DireClanMC/ThermosX.svg?branch=master)](https://travis-ci.org/DireClanMC/ThermosX)
 ![Minecraft Forge v10.13.4.1614][forge]
 ![Minecraft v1.7.10][mc]
 ![Java JDK v1.8][java]
-![Spigot 1.7.10 Snapshot ][spigot]
+![Spigot 1.7.10 Snapshot][spigot]
 
 ### What's ThermosX?
 ThermosX is a fork of KCauldron and Thermos, a CraftBukkit-Forge server for Minecraft 1.7.10. After periods of inactivity on KCauldron's (and Thermos) GitLab concerning major issues, ThermosX was created to allow active members of the Minecraft coding community to optimize it and provide fixes in a timely manner.
